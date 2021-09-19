@@ -7,3 +7,7 @@ El informe final se encuentra en "incluir enlace" y es complementado por el anex
 * Notebook Informe final: "incluir enlace"
 * [Notebook para modelo SARIMAX](https://github.com/Marioherreroglez/TFM_Herrero/blob/main/Prediccion_SARIMAX.ipynb)
 * [Notebook para RNN](https://github.com/Marioherreroglez/TFM_Herrero/blob/main/Prediccion_RNN.ipynb)
+Además si únicamente se quiere abrir el documento final es necesario incluir en la misma carpeta las predicciones realizadas por los modelos:
+- [Primera predicción](https://github.com/Marioherreroglez/TFM_Herrero/blob/main/prediccion1.csv)
+- [Segunda predicción](https://github.com/Marioherreroglez/TFM_Herrero/blob/main/prediccion2.csv)
+- [Tercera predicción](https://github.com/Marioherreroglez/TFM_Herrero/blob/main/prediccion3.csv)
